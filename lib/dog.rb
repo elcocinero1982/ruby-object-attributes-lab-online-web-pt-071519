@@ -6,3 +6,4 @@ def name
   @name 
 end
 end 
+perro=Dog.new 
