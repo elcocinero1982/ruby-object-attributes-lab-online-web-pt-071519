@@ -4,7 +4,13 @@ class Dog
 end 
 def name 
   @name 
-end
+end 
+def breed  
+  @breed=breed 
+end 
+def breed 
+  @breed 
+end 
 end 
 perro=Dog.new("delfino") 
 perro.name
