@@ -14,3 +14,4 @@ end
 end 
 perro=Dog.new("delfino") 
 perro.name 
+perro.breed
