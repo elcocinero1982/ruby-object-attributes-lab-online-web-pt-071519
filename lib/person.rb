@@ -1,6 +1,6 @@
 	class Person
 	 def initialize(name) 
-	  @name=jose
+	  @name=name
 	end 
 	def name 
 	  @name 
