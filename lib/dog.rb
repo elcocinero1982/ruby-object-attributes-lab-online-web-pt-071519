@@ -7,3 +7,4 @@ def name
 end
 end 
 perro=Dog.new("delfino") 
+delfino.name
