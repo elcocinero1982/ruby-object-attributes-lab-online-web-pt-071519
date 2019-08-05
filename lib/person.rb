@@ -10,4 +10,4 @@
 	  
 	end
   jose=Person.new("luis")
-  jose.new
+  jose.name
